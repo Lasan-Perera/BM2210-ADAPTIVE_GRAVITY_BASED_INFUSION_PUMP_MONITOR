@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-25 at 18 57 55_f932228b](https://github.com/user-attachments/assets/4fc63e43-d4bb-4b41-acca-0367b63609cc)# ADAPTIVE_GRAVITY_BASED_INFUSION_PUMP_MONITOR
+# ADAPTIVE_GRAVITY_BASED_INFUSION_PUMP_MONITOR
 
 A smart IV (Intravenous) fluid regulator system designed to monitor and control the drip rate in medical settings. The project combines embedded electronics, sensors, and software to ensure accurate and safe fluid delivery to patients.
 
